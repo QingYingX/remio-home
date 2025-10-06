@@ -190,7 +190,7 @@
 "resources": {
   "css": [],
   "js": [],
-  "bodyHtml": "<script defer src=\"https://umami.099311.xyz/script.js\" data-website-id=\"63b00b4d-08b2-4402-9912-c978b257c610\" data-host-url=\"https://umami.099311.xyz\"></script><script>document.addEventListener(\"DOMContentLoaded\",function(){let selector=\"body > div > main > footer > div > a:nth-child(2)\";let target=document.querySelector(selector);if(target){let newHTML=\"<a target=\\\"_blank\\\" class=\\\"flex flex-nowrap items-center gap-1\\\" href=\\\"https://icp.gov.moe/?keyword=20259311\\\"><span>萌ICP备20259311号</span></a>\";target.outerHTML=newHTML;}});</script>"
+  "bodyHtml": "<script defer src=\"https://umami.099311.xyz/script.js\" data-website-id=\"63b00b4d-08b2-4402-9912-c978b257c610\" data-host-url=\"https://umami.099311.xyz\"></script><script>document.addEventListener(\"DOMContentLoaded\",function(){let selector=\"body > div > main > footer > div > a:nth-child(2)\";let target=document.querySelector(selector);if(target){target.href=\"https://icp.gov.moe/?keyword=20259311\";let span=target.querySelector(\"span\");if(span){span.textContent=\"萌ICP备20259311号\";}}});</script>"
 },
   "domain": "https://remio-home.vercel.app"
 }
