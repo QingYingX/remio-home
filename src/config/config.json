@@ -190,7 +190,7 @@
   "resources": {
     "css": [],
     "js": [],
-    "bodyHtml": null
+    "bodyHtml": "<script defer src=\"https://umami.099311.xyz/script.js\" data-website-id=\"2b30f934-1613-4225-a988-32812e89f728\" data-host-url=\"https://umami.099311.xyz\"></script>"
   },
   "domain": "https://remio-home.vercel.app"
 }
