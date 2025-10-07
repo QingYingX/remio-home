@@ -14,10 +14,10 @@
   },
   "bgConfig": {
     "bg": [
-      "https://www.loliapi.com/acg/"
+      "https://t.alcy.cc/fj"
     ],
     "mbg": [
-      "https://www.loliapi.com/acg/"
+      "https://t.alcy.cc/fj"
     ],
     "audio": null,
     "bgStyle": null,
@@ -46,7 +46,7 @@
     "loading": "wave",
     "typingGap": 10,
     "style": "desc",
-    "desc": "QingYingX，高二学生，主要捣鼓一些前端，会点点后端，目标是成为一个全栈开发，好耶！🥰",
+    "desc": "QingYingX，高二，主要捣鼓一些前端，会点点后端，目标是成为一个全栈开发，好耶！🥰",
     "content": "Hello，这里是QingYingXの主页",
     "gapDelay": 0.05,
     "heart": false,
@@ -103,21 +103,27 @@
   "sites": [
     {
 
-      "title": "清影的博客",
+      "title": "QingYingX's Blog",
       "desc": "博客",
-      "url": "https://blog.099311.xyz:39193/",
+      "url": "https://blog.099311.xyz:39193",
       "icon": "https://img.099311.xyz:39293/i/2025/10/05/xh3hhc.png"
     },
     {
-      "title": "清影的图床",
+      "title": "QingYingX's Image",
       "desc": "图床",
-      "url": "https://img.099311.xyz:39293/",
+      "url": "https://img.099311.xyz:39293",
       "icon": "https://img.099311.xyz:39293/i/2025/10/05/xh3hhc.png"
     },
     {
-      "title": "清影的云盘",
+      "title": "QingYingX's Cloud",
       "desc": "云盘",
-      "url": "https://cloud.099311.xyz:39393/",
+      "url": "https://cloud.099311.xyz:39393",
+      "icon": "https://img.099311.xyz:39293/i/2025/10/05/xh3hhc.png"
+    },
+    {
+      "title": "QingYingX's Cube 3D Text",
+      "desc": "Cube 3D Text",
+      "url": "https://c3t.099311.xyz",
       "icon": "https://img.099311.xyz:39293/i/2025/10/05/xh3hhc.png"
     }
   ],
